@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atividade 02</string>
+    <string name="titulo">Utilizando imagens no Android</string>
+    <string name="nome">Emily Ferreira</string>
+    <string name="data">14/07/2024</string>
+    <string name="conteudo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan porttitor diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque ut risus vitae eros aliquam dictum. Nam dictum nisi turpis, ut interdum eros posuere non. Aliquam erat volutpat. Duis dignissim, velit et ultricies elementum, dui ligula bibendum dui, non tempus elit enim vitae enim. Aenean vel elit vel sapien vehicula scelerisque. Cras vehicula sem sed nisl ultrices, ac cursus odio porttitor. Integer vehicula ultricies erat, at consequat lorem. Aliquam sodales, nulla et rutrum volutpat, dui elit sodales sem, at fermentum massa dui ac sapien. Suspendisse potenti. Curabitur dapibus convallis leo, et pretium velit vehicula a. Sed ultricies lorem nisi, a feugiat tortor venenatis at. Ut at dictum justo, at pharetra velit.</string>
+    <string name="botaoProximo">Proximo</string>
+    <string name="botaoAnterior">Anterior</string>
+</resources>
